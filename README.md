@@ -1,4 +1,5 @@
 # Homework-1-Data-Structures
+Adaptation of the code originally developed as homework for Data Structures
 ## Overview:
 The class GasStation, modeled after real life gas stations, provides you with a list of
 methods regarding refilling your car’s fuel tank and returning the total amount you have to pay
